@@ -30,7 +30,7 @@ Before running this application, ensure you have the following installed:
 
 4. Run the Flask application:
     ```bash
-    python <filename>.py
+    python PROG_ASSIGN2_23915_700743277.py
     ```
 
 5. Access the API at:
