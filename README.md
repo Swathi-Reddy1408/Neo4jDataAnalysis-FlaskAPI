@@ -86,18 +86,14 @@ Before running this application, ensure you have the following installed:
         "rating": 9.5
     }
     ```
-- **Response**: Confirmation message.
+- **Response**: Movie node with title 'Inception' has been updated successfully.
 
 ### 5. Delete a Movie
 **DELETE** `/imdb/<string:fname>`
 
 - Deletes a movie and all its relationships.
-- **Response**: Confirmation message.
+- **Response**: Movie 'Inception' and all its relationships deleted from database.
 
-### 6. Movie Statistics
-**GET** `/imdb/stat/<string:fname>`
-
-- Retrieves movie statistics, including actor and director counts. *(This route is a work in progress.)*
 
 ## Code Explanation
 
