@@ -8,7 +8,7 @@ app=Flask(__name__)
 
 # Connect to the Neo4j database
 uri = "bolt://localhost:7687"
-driver = GraphDatabase.driver(uri, auth=("neo4j", "Admin1234"))
+driver = GraphDatabase.driver(uri, auth=("neo4j", "<password>"))
 
 #Define a route to get all Movie nodes
 @app.route('/imdb', methods=['GET'])
