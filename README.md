@@ -6,11 +6,20 @@ This project is a Flask-based API for managing and retrieving movie data stored 
 
 Before running this application, ensure you have the following installed:
 
-- Python 3.7+
-- Neo4j Community or Enterprise Edition
-- Flask
-- Neo4j Python Driver (`neo4j`)
-- PostMan
+1. **Python 3.7+**  
+   - Download: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+2. **Neo4j Community or Enterprise Edition**  
+   - Download: [https://neo4j.com/download-center/](https://neo4j.com/download-center/)
+
+3. **Flask**  
+
+4. **Neo4j Python Driver (`neo4j`)**  
+
+5. **Postman**  
+   - Postman is a tool for testing and interacting with APIs.  
+   - Download: [https://www.postman.com/downloads/](https://www.postman.com/downloads/)
+
 
 ## Installation
 
