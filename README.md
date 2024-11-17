@@ -10,6 +10,7 @@ Before running this application, ensure you have the following installed:
 - Neo4j Community or Enterprise Edition
 - Flask
 - Neo4j Python Driver (`neo4j`)
+- PostMan
 
 ## Installation
 
