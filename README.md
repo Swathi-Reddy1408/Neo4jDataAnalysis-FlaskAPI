@@ -16,7 +16,7 @@ Before running this application, ensure you have the following installed:
 1. Clone the repository to your local machine:
     ```bash
     git clone https://github.com/Swathi-Reddy1408/Neo4jDataAnalysis-FlaskAPI.git
-    cd <repository_folder>
+    cd Neo4jDataAnalysis-FlaskAPI-main
     ```
 
 2. Install the required Python libraries:
